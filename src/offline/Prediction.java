@@ -24,7 +24,7 @@ import db.DBUtil;
 public class Prediction {
 	// potential good results are AWLVQ1NSU3LDS
 	// A1GO6VJZN0UDLN
-	private static final String USER_ID = "A1GO6VJZN0UDLN";
+	private static final String USER_ID = "AWLVQ1NSU3LDS";
 	private static final String COLLECTION_NAME = "ratings";
 	private static final String USER_COLUMN = "user";
 	private static final String ITEM_COLUMN = "item";
